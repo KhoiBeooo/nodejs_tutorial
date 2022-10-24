@@ -1,0 +1,30 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "learn from f8",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhoiBeooo/nodejs_tutorial.git"
+  },
+  "keywords": [
+    "f8",
+    "nodejs"
+  ],
+  "author": "KhoiBeooo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhoiBeooo/nodejs_tutorial/issues"
+  },
+  "homepage": "https://github.com/KhoiBeooo/nodejs_tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
